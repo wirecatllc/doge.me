@@ -1,35 +1,98 @@
-<!doctype html>
-<html>
-<head>
-	<title>DogeSpeed</title>
-	<meta http-equiv="refresh" content="0; url=https://dogespeed.ga/" />
-	<meta name="theme-color" content="#3f51b5" />
-	<meta name="viewport" content="width=device-width,minimum-scale=1,maximum-scale=1" />
-	<style>
-		body {
-			padding-top: 200px;
-			background-color: #3f51b5;
-			text-align: center;
-			font-family: sans-serif;
-			color: white;
-		}
-		h2 {
-			color: #ccc;
-		}
-		.hiddenlink {
-			color: #ccc;
-			opacity: 0.3;
-			text-decoration: none;
-			transition: opacity .25s ease-in-out;
-		}
-		.hiddenlink:hover {
-			opacity: 1;
-		}
-	</style>
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="">
+    <meta name="theme-color" content="hsl(231, 48%, 48%)"/>
+    <title>For A Better World</title>
+    <link rel="canonical" href="https://doge.me/">
+    <link rel="stylesheet" href="/css/material.indigo-blue.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="shortcut icon" href="//dogespeed.ga/logo.png"/>
 </head>
-<body>
-	<h1>DogeSpeed</h1>
-	<h2>传送进行中</h2>
-	<a href="https://dogespeed.ga" class="hiddenlink">汪！</a>
-</body>
+
+
+  <body>
+
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+        <span class="mdl-layout-title">DogeSpeed</span>
+        <div class="mdl-layout-spacer"></div>
+        <nav class="mdl-navigation mdl-layout--large-screen-only" id="right-nav">
+            <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/">首页</a>
+            
+            <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/about/">关于我们</a>
+            
+            <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/donate/">捐赠 :)</a>
+            
+            <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/resource/">资源下载</a>
+            
+            <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/teaching/">教程说明</a>
+            
+        </nav>
+    </div>
+</header>
+<div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">DogeSpeed</span>
+    <nav class="mdl-navigation" id="left-nav">
+        <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/">首页</a>
+        
+        <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/about/">关于我们</a>
+        
+        <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/donate/">捐赠 :)</a>
+        
+        <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/resource/">资源下载</a>
+        
+        <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/teaching/">教程说明</a>
+        
+    </nav>
+</div>
+  <main class="mdl-layout__content">
+  
+    <style type="text/css">
+  main {
+    background-color: hsl(231, 48%, 48%);
+    height: 100%;
+  }
+  header {
+    box-shadow: none !important;
+  }
+  #doge {
+  	display: block;
+		margin: 100px auto 50px auto;
+		width: 25%;
+		min-width: 350px;
+	}
+	#links {
+		margin: 20px auto 20px auto;
+		text-align: center;
+		
+	}
+	#links a {
+		margin: 10px;
+		text-decoration: none;
+		font-weight: bold;
+    font-size: 2em !important;
+    text-transform: inherit !important;
+    color: #fff;
+    border-bottom: 0;
+	}
+	#links a:hover {
+		border-bottom: 5px solid #fff;
+	}
+  </style>
+	<img id="doge" src="images/doge.png"/>
+	<div id="links">
+		<a href="https://dogespeed.ga/auth/login" class="mdl-button mdl-js-button mdl-js-ripple-effect">Log in</a>
+	</div>
+  
+  </main>
+</div>
+<script defer src="/js/material.min.js"></script>
+  </body>
 </html>
