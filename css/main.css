@@ -18,6 +18,10 @@ a:hover,a:focus   {
   text-decoration: underline;
 }
 
+img {
+  max-width: 100%
+}
+
 /**
   * nav
   */
