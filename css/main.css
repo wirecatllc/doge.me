@@ -112,4 +112,8 @@ article {
   .footer_explain {
     margin-left: 4%;
   }
+  
+  .mdl-mini-footer__left-section {
+    padding-left: 80px;
+  }
 }
