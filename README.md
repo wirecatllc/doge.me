@@ -5,11 +5,11 @@ Made for Doges！
 
 Including: 
 
-doge.me/aboutus 
+http://doge.me/about
 
-doge.me/download 
+http://doge.me/download 
 
-doge.me/donate
+http://doge.me/donate
 
-近期将会更新UI主题和改进我们的页面
+近期将还会更新UI主题和改进我们的页面
 
