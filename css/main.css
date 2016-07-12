@@ -16,6 +16,22 @@ a {
 a:hover,a:focus   {
   color: #2E2E2E;
   text-decoration: underline;
+  -webkit-transition: all .5s ease-in-out;
+  -moz-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+}
+
+ul {
+  padding-left: 20px;;
+}
+
+li {
+  list-style-type: none;
+}
+
+li::before {
+  content: '# ';
+  color: rgb(63,81,181);
 }
 
 img {
@@ -45,7 +61,7 @@ img {
   */
 
 article {
-  padding: 40px;
+  padding: 20px;
 }
 
 #content {
@@ -80,20 +96,6 @@ article {
   text-decoration: underline;
 }
 
-.footer_links ul{
-  display: -webkit-flex;
-  display: -ms-flex;
-  display: flex;
-  -webkit-flex-flow: column wrap;
-  -ms-flex-flow: column wrap;
-  flex-flow: column wrap;
-  padding: 0 10%
-}
-
-.footer_links li{
-  line-height: 24px;
-}
-
 .icon > svg {
   display: inline-block;
   width: 16px;
@@ -104,20 +106,14 @@ article {
   fill: #828282;
 }
 
-.footer_explain {
-  max-width: 30%;
-}
-
 @media screen and (min-width: 1024px){
   .mdl-layout__drawer-button {
     display: none;
   }
-
-  .footer_explain {
-    margin-left: 4%;
-  }
-  
   .mdl-mini-footer__left-section {
     padding-left: 80px;
+  }
+  article {
+    padding: 40px;
   }
 }
