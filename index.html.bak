@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="description" content="">
+    <meta name="theme-color" content="hsl(231, 48%, 48%)">
+    <title>Welcome Doge</title>
+    <link rel="canonical" href="https://doge.me/">
+    <link rel="stylesheet" href="/css/material.indigo-blue.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="shortcut icon" href="//dogespeed.ga/logo.png"/>
+</head>
+
+
+  <body>
+
+<div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+  <header class="mdl-layout__header">
+    <div class="mdl-layout__header-row">
+        <span class="mdl-layout-title">DogeSpeed</span>
+        <div class="mdl-layout-spacer"></div>
+        <nav class="mdl-navigation mdl-layout--large-screen-only" id="right-nav">
+            <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/">首页</a>
+            
+            <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/faq/">FAQ</a>
+            
+            <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/about/">关于我们</a>
+            
+            <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/donate/">捐赠</a>
+            
+            <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/resource/">资源下载</a>
+            
+        </nav>
+    </div>
+</header>
+<div class="mdl-layout__drawer">
+    <span class="mdl-layout-title">DogeSpeed</span>
+    <nav class="mdl-navigation" id="left-nav">
+        <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/">首页</a>
+        
+        <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/faq/">FAQ</a>
+        
+        <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/about/">关于我们</a>
+        
+        <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/donate/">捐赠</a>
+        
+        <a class="mdl-navigation__link mdl-button mdl-js-button mdl-js-ripple-effect" href="/resource/">资源下载</a>
+        
+    </nav>
+</div>
+  <main class="mdl-layout__content">
+  <article><div id="content">
+  <h3 id="dogespeed---lets-make-our-world-better"><strong>DogeSpeed</strong> - Let’s make our world better</h3>
+
+<p>Doge是一个拥有通往自由的桥梁的神奇国度，想加入我们吗？<a href="https://telegram.me/DogeSpeedOfficial">Telegram</a>上可以找到我们的国都，我们来者不拒。</p>
+
+<p>不过身为一个合格的doge有一些事情是必须知道的。</p>
+
+<h3 id="section">我们是一个国度，有着自己的家</h3>
+<ul>
+  <li>我们活跃在Telegram,Github,Twitter,Google+等等地方，我们有我们自己的骄傲。</li>
+  <li>加入这个国度很简单，向我们的<a href="https://telegram.me/DogeSpeedBot">机器人</a>发送<code class="highlighter-rouge">/reg</code>你就成功取得我国护照了，想要拥有国籍，那就请进入我们的<a href="https://telegram.me/DogeSpeedOfficial">国都</a>寻找萌萌哒接待咨询吧。</li>
+  <li>不要觉得加入这个国度很难，那只是因为我们想知道你是否迫切追求它。既然你知道这个国度，距离加入还远吗？努力一下，你即将是我们的一份子。</li>
+  <li>这个国度的发展需要资金，如果你觉得拥有这一份国籍是那么得难能可贵，请<a href="/donate">捐赠</a>它，让它能继续走下去。</li>
+</ul>
+
+<h3 id="section-1">喜欢热热闹闹吗？其实更多的时候我喜欢安静</h3>
+<ul>
+  <li>我们每30天会清点一次国度现有的国民，如果发现在这30天里，没有使用我们的桥梁的记录的人，我们会冻结你的国籍。</li>
+  <li>我们每30天会清查一次个人使用时的IP地址，如果IP地址超出20个，我们会在<a href="https://telegram.me/DogeSpeedOfficialChannel">DogeTV</a>播报通知，让有异者联系管理员，违期者冻结国籍。</li>
+  <li>我们这么做只是想了解一下大家是否还需要我们的服务，如果不需要了，请把机会留给他人。</li>
+</ul>
+
+<h3 id="section-2">我们给了你自由，让你能在世界海洋里遨游</h3>
+<ul>
+  <li>请不要污染海洋，抱着应有的敬畏之心，去接触这个全新的世界吧。</li>
+  <li>任何地方有白就必定会有黑，请提高自己的警惕之心，不要被骗或是被利用。</li>
+  <li>我们的独木桥很稳固，但经受不了打击，为了可以随时回到我们这个家，严禁进行BT任务。</li>
+  <li>我是一个自由主义者，我认为人之初性本恶，是在成长中慢慢学会约束自己。但总会有例外的，所以为了保护好我们的家，请不要泄露国籍上的任何信息。</li>
+</ul>
+
+<p>本文于2016.07.21更新。</p>
+
+<p>撰笔:<a href="https://telegram.me/Hanxvs">@Hanxv</a></p>
+
+  </div></article>
+  <footer class="mdl-mini-footer">
+  <div class="mdl-mini-footer__left-section">
+    <section class="footer_logo">
+      <div class="mdl-logo">
+        <span>DogeSpeed</span>
+        <small> - For A Better World</small>
+      </div>
+      <div class="footer_logo_contact">
+        Contact us : <a href="mailto:support@doge.me">support@doge.me</a>
+      </div>
+    </section>
+  </div>
+</footer>
+  </main>
+</div>
+<script defer src="/js/material.min.js"></script>
+<script defer src="/js/pjax.js"></script>
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-85513844-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  </body>
+</html>
